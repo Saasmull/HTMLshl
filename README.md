@@ -38,6 +38,9 @@ Now you can add this highlighted HTML to your page and style it with CSS:
 .property{
   color:green;
 }
+.comment{
+  color:grey;
+}
 ```
 
 Reference:
