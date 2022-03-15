@@ -45,7 +45,7 @@ Now you can add this highlighted HTML to your page and style it with CSS:
 
 Reference:
 
-In `<a href="#">link</a>` is
+In `<a href="#">link</a><!-- Comment -->` is
 
 | part | class |
 |-----:|------:|
@@ -56,3 +56,4 @@ In `<a href="#">link</a>` is
  `>` | .tag |
  `link` | no class |
  `</a>` | .tag |
+ `<!-- Comment -->` | .comment |
